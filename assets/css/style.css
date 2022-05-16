@@ -1203,3 +1203,7 @@ body.light-theme {
     border-radius: .5rem;
   }
 }
+
+.swiper-pagination {
+    opacity: 0;
+}
